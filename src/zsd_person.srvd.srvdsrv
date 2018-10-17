@@ -1,0 +1,5 @@
+@EndUserText.label: 'Person'
+@OData.schema.name: 'API_BUSINESS_PARTNER'
+define service ZSD_PERSON {
+  expose ZPERSONNAME;
+}

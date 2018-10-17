@@ -1,0 +1,6 @@
+implementation unmanaged;
+define behavior for ZPERSONNAME
+  {
+    action DO_SOMETHING result [1] $self;
+
+  }
